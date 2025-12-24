@@ -1,0 +1,10 @@
+{
+  "1234": "Delivered",
+  "2345": "Out for delivery",
+  "3456": "Delayed",
+  "4567": "Preparing",
+  "5678": "Cancelled",
+  "6789": "Ready for pickup",
+  "7891": "Delayed",
+  "0000": "Invalid order"
+}
