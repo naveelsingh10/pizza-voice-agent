@@ -1,14 +1,14 @@
-# 🍕 Mario’s Pizza — Voice-to-Logic AI Agent
+#  Mario’s Pizza — Voice-to-Logic AI Agent
 
 A voice-based customer support agent built using ElevenLabs Conversational AI.
 
-## 🎯 Features
+## Features
 - Voice-based order status checking
 - Tool calling with mock database
 - Automatic $5 discount for delayed orders
 - Streamlit-based live dashboard
 
-## 📁 Project Structure
+##  Project Structure
 pizza-voice-agent/
 ├── app.py
 ├── main.py
@@ -18,12 +18,12 @@ pizza-voice-agent/
 │   ├── demo_video.mp4
 │   └── workflow.png
 
-## 🚀 Run Locally
+## Run Locally
 pip install -r requirements.txt
 streamlit run app.py
 
-## 🎥 Demo
+##  Demo
 See assets/demo_video.mp4
 
-## 🧠 Workflow
+##  Workflow
 See assets/workflow.png
